@@ -3,6 +3,9 @@ body{
     font-family: 'Asap', sans-serif;
     background-color: rgb(213, 236, 255);
 }
+#freespace{
+    height: 100px;
+}
 #Home{
     display: block;
     content: "";
