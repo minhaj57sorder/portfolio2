@@ -1,0 +1,15 @@
+
+body{
+    font-family: 'Asap', sans-serif;
+    background-color: rgb(213, 236, 255);
+}
+#Home{
+    display: block;
+    content: "";
+    height: 70px;
+}
+@media(min-width: 765px){
+    .news-imput{
+        width: 50%;
+    }
+}
